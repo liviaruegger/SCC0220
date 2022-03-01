@@ -14,5 +14,5 @@ These are my assignments for the Laboratory of Introduction to Computer Science 
 
 ### Module 3
 
-- Practice: [Huffman coding](/modulo1/pratica/pratica1.c);
+- Practice: [Huffman coding](/modulo3/pratica/);
 - Experiment: analysis of counting sort, bucket sort and radix sort, comparing these with the algorithms studied in the previous modules (C code [here](/modulo3/relatorio/lab3.c), notebook with data manipulation/analysis [here](/modulo3/relatorio/lab3-dados.ipynb), lab report [here](/modulo3/relatorio/relatorio3_versao-final.pdf)).
